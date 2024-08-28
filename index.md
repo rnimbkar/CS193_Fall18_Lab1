@@ -14,9 +14,12 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Ria Nimbkar's CS193 Homework
 
-- Bulleted
-- List
+- Favorite aspects of CS193:
+- Interactive projects that allow students to deepen thier understanding of Java, Unix and text editors
+- Utilizes many different aspects of programming and presents them in easy to understand projects
+- Taught by students who have recent experience in completing similar courses so they have more insightful advice
 
 1. Numbered
 2. List
